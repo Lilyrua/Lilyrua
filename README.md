@@ -6,7 +6,7 @@
 
 **REWARD**
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
-- 🏆 42BKK KMITL (The best presentation) 
+- 🏆 42BKK KMITL Rush Projet (The best presentation) 
 - 🏆 18 teams School Satellite Competition 2024 with GISTDA (currently)
 
 ## Skill and Tools
