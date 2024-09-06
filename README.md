@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there** 👋
 
 EDUCATION
 - 🌱 Science and Mathematics major at Visuttharangsi Kanchanaburi School **(2019-2022)**
