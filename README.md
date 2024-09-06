@@ -1,17 +1,17 @@
-**Hi there** 👋
+**Hi I am Tus** 👋
 
-EDUCATION
+**EDUCATION**
 - 🌱 Science and Mathematics major at Visuttharangsi Kanchanaburi School **(2019-2022)**
 - ⚡ Computer Engeneering at RMUTT (currently)
 
-REWARD
+**REWARD**
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
 - 🏆 42BKK KMITL (The best presentation) 
 - 🏆 18 teams School Satellite Competition 2024 (currently)
 
 ## Skill and Tools
 
-Programming languages
+**Programming languages**
 
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -23,7 +23,7 @@ Programming languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-Web Application Development
+**Web Application Development**
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,20 +33,20 @@ Web Application Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Frameworks
+**Frameworks**
 
 
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-Databases
+**Databases**
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-Design
+**Design**
 
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -56,7 +56,7 @@ Design
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-OTHER
+**OTHER**
  
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
