@@ -9,7 +9,7 @@
 - 🏆 42BKK KMITL Rush Projet (The best presentation) 
 - 🏆 18 teams School Satellite Competition 2024 with GISTDA (currently)
 
-## Skill and Tools
+## Skills and Tools
 
 **Programming languages**
 
