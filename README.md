@@ -6,7 +6,7 @@
 
 **REWARD**
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
-- 🏆 18 teams School Satellite Competition 2024 with GISTDA (currently)
+- 🏆 18 teams 7th School Satellite Competition 2024 with GISTDA (INFERNO.G)
 - 🏆 42BKK KMITL Rush Projet (The best presentation)
   
 ## Skills and Tools
