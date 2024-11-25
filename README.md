@@ -5,11 +5,11 @@
 - ⚡ Computer Engeneering at RMUTT (currently)
 
 **REWARD**
+- 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
+- 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
 - 🏆 18 teams 7th School Satellite Competition 2024 with GISTDA (INFERNO.G)
 - 🏆 42BKK KMITL Rush Projet (The best presentation)
-- 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
-- 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
   
 ## Skills and Tools
 
