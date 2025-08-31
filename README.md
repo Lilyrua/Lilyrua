@@ -5,6 +5,7 @@
 - ⚡ Computer Engeneering at RMUTT (currently)
 
 **REWARD**
+- 🏆 Gold Award GCDP 2025 At Korea (Harvesting Robot)
 - 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
