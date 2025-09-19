@@ -6,6 +6,7 @@
 
 **REWARD**
 - 🏆 Gold Award GCDP 2025 At Korea (Harvesting Robot)
+- 🏆 2nd Place International Web Design Contest 2025 at Japan,Hokkaido (HIU x RMUTT)
 - 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
