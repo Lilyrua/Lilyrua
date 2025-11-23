@@ -9,6 +9,7 @@
 - 🏆 2nd Place International Web Design Contest 2025 at Japan,Hokkaido (HIU x RMUTT)
 - 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
+- 🏆 Polpular Vote Tesa top gun rally 2025 (ปีนี้พีจะไม่วิดพื้น)
 - 🏆 2nd Software Silapahattakam 70th (Gold medal)
 - 🏆 18 teams 7th School Satellite Competition 2024 with GISTDA (INFERNO.G)
 - 🏆 42BKK KMITL Rush Projet (The best presentation)
