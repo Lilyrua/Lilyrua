@@ -7,7 +7,8 @@
 **REWARD**
 - 🏆 Gold Award GCDP 2025 At Korea (Harvesting Robot)
 - 🏆 2nd Place International Web Design Contest 2025 at Japan,Hokkaido (HIU x RMUTT)
-- 🏆 Awarded a grant of 6,900 USD for project from EPICS in IEEE (IEEE Water Level Monitoring and Warning System for Communities in Water Retention Area Project)
+- 🏆 Awarded a grant of 6,900 USD for project from EPICS in IEEE 
+  (IEEE Water Level Monitoring and Warning System for Communities in Water Retention Area Project)
 - 🏆 Top Score Hardware Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 Top Score Server Tesa top gun rally 2024 (แม่แตมสั่งพ่อลุย)
 - 🏆 Polpular Vote Tesa top gun rally 2025 (ปีนี้พีจะไม่วิดพื้น)
